@@ -1,0 +1,9 @@
+environment_urls:
+  base_url: https://staging.besmartee.com/app/signup/partner/QQBNWFLI/5CYZ8274?campaign=interviewonly
+existing_users:
+  tom_smith:
+    email: kostas.stamos+test3@unifiedpost.com
+    password: Blind321
+  lien_draft:
+    email: liennguyendraft@gmail.com
+    password: 123456a@A

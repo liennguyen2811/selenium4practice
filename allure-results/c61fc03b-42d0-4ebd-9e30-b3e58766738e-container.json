@@ -1,0 +1,1 @@
+{"uuid":"c61fc03b-42d0-4ebd-9e30-b3e58766738e","name":"Marketplace.automated.testing","children":["a61b001c-cf27-4c1d-882c-872344f259f3"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1636681802797,"stop":1636681806037}],"afters":[],"links":[],"start":1636681802771,"stop":1636681826136}

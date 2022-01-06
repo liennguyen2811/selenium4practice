@@ -1,0 +1,9 @@
+environment_urls:
+  base_url:  https://openweathermap.org/
+existing_users:
+  tom_smith:
+    email: tomsmith
+    password: SuperSecretPassword!
+  lien_draft:
+    email: liennguyendraft@gmail.com
+    password: 123456a@A

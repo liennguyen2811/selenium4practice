@@ -1,0 +1,13 @@
+france:
+ base_url: https://www.un.org/fr
+ HomePageLocalize:
+  header: Paix, dignité et égalité
+  title: Nations Unies | Paix, dignité et égalité<BR>sur une planète saine
+  contact: Contactez-nous
+
+english:
+ base_url: https://www.un.org/en
+ HomePageLocalize:
+    header: Peace, dignity and equality
+    title: United Nations | Peace, dignity and equality <BR>on a healthy planet
+    contact: Contact
